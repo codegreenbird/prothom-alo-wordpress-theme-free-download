@@ -5,6 +5,11 @@ Prothom alo wordpress theme download link
 
 Download Link: https://elitewebs.xyz/item/prothomalo-wordpress-theme-download
 
+
+## Screenshot of Prothom alo wordpress theme download
+<img src="https://elitewebs.xyz/images/themes/prothomalo-wordpress-theme.webp" width="100%" height="100%" style="display: block; margin: 0 auto;">
+
+
 # Prothom alo Wordpress Theme download
 Prothom alo is a WordPress theme designed for any news site. This theme seamlessly adapts to various screen sizes, ensuring a flawless user experience and featuring super animations with weather updates.
 
@@ -26,9 +31,6 @@ To unlock the wonders of this project, simply follow these steps:
 - Smooth transition animations
 - Beautiful and interactive design
 - All necessary sections
-
-## Screenshot
-<img src="https://elitewebs.xyz/images/themes/prothomalo-wordpress-theme.webp" width="100%" height="100%" style="display: block; margin: 0 auto;">
 
 ## Support
 Need assistance? visit our [Facebook page](https://www.facebook.com/elitewebsofficial).
